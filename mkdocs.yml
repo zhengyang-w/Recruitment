@@ -1,0 +1,16 @@
+site_name: 患者招募.top
+repo_url: https://github.com/zhengyang-w/Recruitment # git repository url
+repo_name: zhengyang-w/Recruitment # Repository name
+edit_uri: edit/master/docs/ # 开放编辑
+theme: 
+  name: material
+  language: zh
+  
+
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition # markdown admonition
+  - pymdownx.superfences
+  - pymdownx.details
