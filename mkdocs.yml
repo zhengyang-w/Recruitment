@@ -1,4 +1,5 @@
-site_name: 患者招募.top
+# 配置文件yml
+site_name: 临床试验受试者招募开源文档
 repo_url: https://github.com/zhengyang-w/Recruitment # git repository url
 repo_name: zhengyang-w/Recruitment # Repository name
 edit_uri: edit/master/docs/ # 开放编辑
@@ -14,3 +15,4 @@ markdown_extensions:
   - admonition # markdown admonition
   - pymdownx.superfences
   - pymdownx.details
+  - footnotes
