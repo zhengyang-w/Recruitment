@@ -1,18 +1,24 @@
 # 配置文件yml
-site_name: 临床试验受试者招募开源文档
+site_name: 临床试验受试者招募&开源文档
 repo_url: https://github.com/zhengyang-w/Recruitment # git repository url
 repo_name: zhengyang-w/Recruitment # Repository name
 edit_uri: edit/master/docs/ # 开放编辑
-theme: 
-  name: material
+
+theme: # set theme and language
+  name: material # marterial_url: https://squidfunk.github.io/mkdocs-material/
   language: zh
-  
+
+extra: # set google analytics
+  analytics:
+    provider: google
+    property: G-180GCB1HME
 
 
-markdown_extensions:
+markdown_extensions: # extra markdown
   - toc:
       permalink: true
   - admonition # markdown admonition
   - pymdownx.superfences
   - pymdownx.details
   - footnotes
+  
