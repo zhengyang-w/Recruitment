@@ -6,15 +6,15 @@ hide:
 
 # Welcome to 患者招募.top
 
-!!!tip 
-    已开放文档编辑权限，欢迎加入编辑行列，我们共同完成此项目
-
 为什么会有这些内容？权当是某人的无聊之作，自娱自乐
 
 个人能力始终有限，若有不当之处，还请指正
 
 !!! info 
     部分内容收集自互联网，若您有补充或其他意见，欢迎与我联系<zhengyang.one@gmail.com>
+
+!!!tip 
+    这是一个开源的项目，版权归所有贡献者
 
 ------
 
@@ -376,9 +376,13 @@ hide:
 
 暂缺
 
+## 贡献指南
 
-
-
+1. Fork 本项目
+2. 创建新分支 `git checkout -b feature/xxx`
+3. 提交更改 `git commit -m 'xxx'`
+4. 推送到分支 `git push origin feature/xxx`
+5. 提交 `Pull Request`
 
 ------
 

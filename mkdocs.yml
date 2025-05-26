@@ -1,5 +1,5 @@
 # 配置文件yml
-site_name: 临床试验受试者招募&开源文档
+site_name: 临床试验&受试者招募指南
 repo_url: https://github.com/zhengyang-w/Recruitment # git repository url
 repo_name: zhengyang-w/Recruitment # Repository name
 edit_uri: edit/master/docs/ # 开放编辑
